@@ -1,4 +1,4 @@
-## flight-price-prediction
+## Airline Fare Prediction using Regression
 Predict the airline fare for flights in India based on the dataset available on Kaggle {https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh} using different regression models namely Linear Regression, Random Forest Regressor and KNN Regressor. 
 
 ## Highlights
